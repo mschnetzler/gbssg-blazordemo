@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socrea.gbssg.blazordemo.Server", "socrea.gbssg.blazordemo\Server\socrea.gbssg.blazordemo.Server.csproj", "{B8A7EA6E-C313-445A-BD4D-45B842F20150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socrea.gbssg.blazordemo.Client", "socrea.gbssg.blazordemo\Client\socrea.gbssg.blazordemo.Client.csproj", "{F81EFCD1-DFD1-4681-904D-DAF42DA1704A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socrea.gbssg.blazordemo.Shared", "socrea.gbssg.blazordemo\Shared\socrea.gbssg.blazordemo.Shared.csproj", "{DB3609E6-AEB3-461D-9007-36F2EEE4F5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A7EA6E-C313-445A-BD4D-45B842F20150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A7EA6E-C313-445A-BD4D-45B842F20150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A7EA6E-C313-445A-BD4D-45B842F20150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A7EA6E-C313-445A-BD4D-45B842F20150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81EFCD1-DFD1-4681-904D-DAF42DA1704A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81EFCD1-DFD1-4681-904D-DAF42DA1704A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81EFCD1-DFD1-4681-904D-DAF42DA1704A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81EFCD1-DFD1-4681-904D-DAF42DA1704A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3609E6-AEB3-461D-9007-36F2EEE4F5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3609E6-AEB3-461D-9007-36F2EEE4F5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3609E6-AEB3-461D-9007-36F2EEE4F5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3609E6-AEB3-461D-9007-36F2EEE4F5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
